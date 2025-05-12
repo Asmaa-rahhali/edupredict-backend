@@ -1,0 +1,12 @@
+Django==5.2.1
+djangorestframework==3.16.0
+djangorestframework_simplejwt==5.5.0
+django-cors-headers==4.7.0
+gunicorn
+joblib==1.5.0
+scikit-learn==1.6.1
+numpy==2.2.5
+reportlab==4.4.0
+PyYAML==6.0.2
+pytz
+sqlparse
